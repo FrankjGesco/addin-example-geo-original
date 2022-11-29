@@ -106,7 +106,7 @@ describe('User visits addin', async () => {
             assert.isNotNull(hashValues.dateRange.startDate);
             assert.isNotNull(hashValues.dateRange.endDate);
             assert.equal('b1', hashValues.device);
-            assert.deepEqual(['DiagnosticEngineSpeedId', 'DiagnosticGoDeviceVoltageId', 'DiagnosticDeviceTotalFuelId'], hashValues.diagnostic);
+            assert.deepEqual(['DiagnosticEngineSpeedId', 'DiagnosticGoDeviceVoltageId', 'DiagnosticDeviceTotalFuelId', 'DiagnosticFuelUnitsId', 'DiagnosticFuelLevelId'], hashValues.diagnostic);
         });
     });
 });
