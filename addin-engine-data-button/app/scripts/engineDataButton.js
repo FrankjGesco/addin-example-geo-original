@@ -17,7 +17,9 @@ geotab.customButtons.engineDataButton = (event, api, state) => {
   let diagnostics = [
     'DiagnosticEngineSpeedId',
     'DiagnosticGoDeviceVoltageId',
-    'DiagnosticDeviceTotalFuelId'
+    'DiagnosticDeviceTotalFuelId',
+    'DiagnosticFuelUnitsId',
+    'DiagnosticFuelLevelId'
   ];
 
   // The currently selected device from state
