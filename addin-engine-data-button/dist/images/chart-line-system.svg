@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <g id="fd895125-0861-4e5a-af75-dfc92b8db0d8" data-name="chart-line">
+    <g>
+      <rect width="192" height="192" fill="none"/>
+      <line x1="20" y1="172" x2="172" y2="172" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <polyline points="40 120 52.92 106.8 65.85 120 110 76 134.77 102.4 152 84.8" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    </g>
+  </g>
+</svg>
